@@ -1,0 +1,17 @@
+pyenv/*
+__pycache__/
+*.pyc
+*.pdf
+.DS_Store
+pyenv3/*
+pyenv/*
+/.vs
+static/*
+staticfiles/*
+.env
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+# !.elasticbeanstalk/*.cfg.yml
+# !.elasticbeanstalk/*.global.yml
+
